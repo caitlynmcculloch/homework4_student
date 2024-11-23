@@ -34,5 +34,5 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Caitlyn McCulloch, caitmcc
+Some advantages of smoothing data are infering patterns from missing data with linear regression and interpolation. Disadvantages of this are that it is not always accurate and with data that is constantly increasing or decreasing, these funcations cannot fill in for all of it. Rolling means are helpful to get a trendline or average of data that can fill in more gaps and give us more information that just added a trendline. 
